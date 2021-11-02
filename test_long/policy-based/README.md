@@ -1,3 +1,3 @@
-# Inverse RL Algorithms
+# Policy-Based Algorithms
 
 source: `{{ page.path }}`
