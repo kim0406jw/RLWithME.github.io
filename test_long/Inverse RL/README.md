@@ -1,3 +1,3 @@
-# Value-Based Algorithms
+# Inverse RL Algorithms
 
 source: `{{ page.path }}`
