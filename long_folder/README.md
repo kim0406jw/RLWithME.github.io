@@ -1,8 +1,8 @@
 ---
-sort: 3
+sort: 1
 ---
 
-# 논문 리뷰2
+# 논문 리뷰
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
