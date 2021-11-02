@@ -1,3 +1,3 @@
-# Policy-Based Algorithms
+# Value-Based Algorithms
 
 source: `{{ page.path }}`
