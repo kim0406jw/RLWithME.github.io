@@ -1,3 +1,9 @@
+---
+sort: 1
+---
+
+# Trust Region Policy Optimization (TRPO)
+
 # <center>Trust Region Policy Optimization  논문 먹어보기</center>
 
 
