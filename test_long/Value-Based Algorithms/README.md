@@ -1,3 +1,3 @@
-# I'm folder2
+# Value-Based Algorithms
 
 source: `{{ page.path }}`
