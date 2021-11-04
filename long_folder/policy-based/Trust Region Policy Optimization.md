@@ -69,7 +69,7 @@ TRPO는 Trust Region Policy Optimization의 약자로, 정책에 의해 행동�
 
    현재 정책이<img src="https://raw.githubusercontent.com/RLWithME/RLWithME.github.io/develop/images/TRPO/image-20211102164240896.png" alt="image-20211102164240896" style="zoom:25%;" /> 이고, 초기 상태를 <img src="https://raw.githubusercontent.com/RLWithME/RLWithME.github.io/develop/images/TRPO/image-20211102164336492.png" alt="image-20211102164336492" style="zoom: 50%;" />라고 한다면 이 정책을 따랐을 때 예상되는 보상의 합은 다음의 수식과 같습니다.
 
-   ![image-20211102175431458](https://raw.githubusercontent.com/RLWithME/RLWithME.github.io/develop/images/TRPO/image-20211102175431458.png)
+           ![image-20211102175431458](https://raw.githubusercontent.com/RLWithME/RLWithME.github.io/develop/images/TRPO/image-20211102175431458.png)
 
    
 
