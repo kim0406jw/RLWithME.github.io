@@ -72,7 +72,7 @@ $$
 
 2. **할인된 누적 보상의 기댓값(Expected Discounted Reward)** 
 
-   현재 정책이 <img src="https://github.com/RLWithME/RLWithME.github.io/tree/develop/images/images/image-20211102164240896.png" alt="image-20211102164240896" style="zoom:25%;" />이고, 초기 상태를 <img src="C:\Users\cocel\AppData\Roaming\Typora\typora-user-images\image-20211102164336492.png" alt="image-20211102164336492" style="zoom: 50%;" />라고 한다면 이 정책을 따랐을 때 예상되는 보상의 합은 다음의 수식과 같습니다.
+   현재 정책이 <img src="https://github.com/RLWithME/RLWithME.github.io/tree/develop/images/image-20211102164240896.png" alt="image-20211102164240896" style="zoom:25%;" />이고, 초기 상태를 <img src="C:\Users\cocel\AppData\Roaming\Typora\typora-user-images\image-20211102164336492.png" alt="image-20211102164336492" style="zoom: 50%;" />라고 한다면 이 정책을 따랐을 때 예상되는 보상의 합은 다음의 수식과 같습니다.
 
    ![image-20211102175431458](../../../AppData/Roaming/Typora/typora-user-images/image-20211102175431458.png)
 
