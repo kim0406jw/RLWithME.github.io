@@ -4,7 +4,6 @@ sort: 2
 
 # Trust Region Optimal Policy
 
-<div align="center"> dsds </div>
 
 # 0.Abstract
 
@@ -61,7 +60,7 @@ TRPO는 Trust Region Policy Optimization의 약자로, 정책에 의해 행동�
 1. **할인이 포함된 MDP는 다음과 같이 정의 됩니다.**
 
 
-   ![image-20211104193713397](https://raw.githubusercontent.com/RLWithME/RLWithME.github.io/develop/images/TRPO/image-20211104193713397.png)
+   <div align="center">![image-20211104193713397](https://raw.githubusercontent.com/RLWithME/RLWithME.github.io/develop/images/TRPO/image-20211104193713397.png)</div>
 
 
 
