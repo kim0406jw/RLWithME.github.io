@@ -4,7 +4,7 @@ sort: 2
 
 # Trust Region Optimal Policy
 
-<center> dsds </center>
+<div align="center"> dsds </div>
 
 # 0.Abstract
 
