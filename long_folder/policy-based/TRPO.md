@@ -72,7 +72,7 @@ $$
 
 2. **할인된 누적 보상의 기댓값(Expected Discounted Reward)** 
 
-   현재 정책이 ![image-20211102164240896](https://user-images.githubusercontent.com/93563862/140293917-c9166dcc-8e18-4aed-8871-d53a92cd9548.png)이고, 초기 상태를 <img src="C:\Users\cocel\AppData\Roaming\Typora\typora-user-images\image-20211102164336492.png" alt="image-20211102164336492" style="zoom: 50%;" />라고 한다면 이 정책을 따랐을 때 예상되는 보상의 합은 다음의 수식과 같습니다.
+   현재 정책이 <img src=https://user-images.githubusercontent.com/93563862/140293917-c9166dcc-8e18-4aed-8871-d53a92cd9548.png" style="zoom:25%;>이고, 초기 상태를 <img src="C:\Users\cocel\AppData\Roaming\Typora\typora-user-images\image-20211102164336492.png" alt="image-20211102164336492" style="zoom: 50%;" />라고 한다면 이 정책을 따랐을 때 예상되는 보상의 합은 다음의 수식과 같습니다.
 
    ![image-20211102175431458](../../../AppData/Roaming/Typora/typora-user-images/image-20211102175431458.png)
 
