@@ -2,7 +2,7 @@
 sort: 2
 ---
 
-# Trust REgion Policy Optimization
+# Trust Region Policy Optimization
 
 # 0.Abstract
 
